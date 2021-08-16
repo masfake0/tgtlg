@@ -1,0 +1,7 @@
+[gdrivelasering]
+type = drive
+scope = drive
+token = {"access_token":"ya29.a0ARrdaM9WYsXxMQIH4p7WS3znJFHq__SElb3tBdlrjVEF9h8ImDyjatK-lPTD7Xoovt9183tXb9GoqRvMePcsfMWCAkiOO2NrpYAxOz5FoRaVJKN5P7FvU5JA15RILmMCWTihvONTgk9-UO-6z0iWkET7UbGl","token_type":"Bearer","refresh_token":"1//0g7lGm-o771jBCgYIARAAGBASNwF-L9IrAnSpcM7nA46FvClMkKUWXS0XzcRwIUIQlpHCjlvKrRFZzrwCCaEEiNlVBYkwXXk12tk","expiry":"2021-08-16T11:20:55.2573598+05:30"}
+team_drive = 0AFjmgB0kOYM-Uk9PVA
+root_folder_id = 
+
